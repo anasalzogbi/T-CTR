@@ -1,11 +1,3 @@
-Database and Information Systems group  
-University of Freiburg    
-Germany  
-
-Anas Alzogbi  
-email: <alzoghba@informatik.uni-freiburg.de>  
-
-
 # Temporal Collaborative Topic Regression (T-CTR)
 Implementation for the paper [Time-aware Collaborative Topic Regression: Towards Higher Relevance in Textual Item Recommendation](http://ceur-ws.org/Vol-2132/paper2.pdf).  
 Extends Collaborative Topic Modelling [CTR Recommender System](https://github.com/blei-lab/ctr) 
